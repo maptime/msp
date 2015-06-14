@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Maptime MSP
+author: Taylor Long
 ---
 
 Maptime MSP is a map hack night for the Twin Cities. We meet once a month to work on maps, learn about geospatial data, and teach each other the latest cartographic tools. Maptime is, rather literally, time for mapmaking. Our mission is to open the doors of cartographic possibility to anyone interested by creating a time and space for collaborative learning, exploration, and map creation using mapping tools and technologies. 

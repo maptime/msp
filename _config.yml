@@ -1,8 +1,8 @@
-baseurl: /starter
+baseurl: /msp
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: msp
 github_org: maptime
 maptime:
   chapter: MaptimeMSP
