@@ -86,12 +86,14 @@ h6 a:hover { text-decoration:none;}
     top:-10px;
     }
   .sprite.marker {
-    background-position:-385px 0;
-    width:100px;
+    /*background-position:-385px 0;*/
+    background-position:-393px 0;
+    width:140px;
     height:140px;
     }
   .sprite.mozilla {
-    background-position:-485px -100px;
+    /*background-position:-485px -100px;*/
+    background-position:-535px -100px;
     width:140px;
     height:40px;
     }
