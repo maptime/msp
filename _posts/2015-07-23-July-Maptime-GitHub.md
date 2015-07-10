@@ -1,5 +1,6 @@
 ---
 layout: event
+category: event
 title: July Maptime - GitHub
 rsvp: http://meetu.ps/2KlFnJ
 ---
