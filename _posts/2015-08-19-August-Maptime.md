@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: August: Collaborative Work Session
+title: August - Collaborative Work Session
 rsvp: http://bit.ly/1f0BBFC
 author: Kitty Hurley
 ---
