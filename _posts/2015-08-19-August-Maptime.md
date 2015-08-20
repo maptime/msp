@@ -18,4 +18,4 @@ We'll have pizza and refreshments, courtesy of CartoDB. As always, beginners are
 
 ### Presentation
 
-Check out the [slides](http://slides.com/geospatialem/maptimemsp-2015-08-19/live) from our event!
+Check out the [slides](http://slides.com/geospatialem/maptimemsp-2015-08-19/) from our event!
