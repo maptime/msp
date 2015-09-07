@@ -2,11 +2,11 @@
 layout: event
 category: event
 title: September - Typography and Cartography
-rsvp: http://bit.ly/1f0BBFC
+rsvp: http://meetu.ps/2N1KJ6
 author: Kitty Hurley
 ---
 
-We'll be meeting **Wednesday, September 30th** at the **Walker Library** in the Calhoun Room from **6:00 - 8:00 pm** in Minneapolis, and focus on **typography and cartography**. Kat Cantner will show us which fonts to use in particular situations, with tricks to make a map "pop"!  We will also have Marty Elmer, who will talk about Project Linework, a collection of handcrafted cartographic linework sets, each with their own aesthetic, all released to the  Public Domain.  
+To start off the fall season we'll be meeting at the **Walker Library** in the Calhoun Room in Minneapolis from **6:00 - 8:00 pm**! We'll focus on **typography and cartography** with presentations from Kat Cantner and Marty Elmer.
 
 After our presentations, we'll have a work/networking session focused on one last ditch effort to contribute to the [NACIS map](http://maptimemsp.github.io/nacis2015-map) next month!
 
