@@ -8,7 +8,7 @@ author: Kitty Hurley
 
 We'll be meeting in St. Paul in the **Highland Park Library's Community Room** (located on the 2nd floor) and have some great presentations on **resources and maps** to get you started on some current, and future projects.
 
-[Mike Dolbow](http://www.twitter.com/mmdolbow) will show us [Census Reporter](http://www.censusreporter.org), how to get to Census data fast, and make a map within minutes! [Ryan Mattke](http://www.twitter.com/eglath) will also be presenting on a topic to be determined (*check back soon for more details*)!
+[Mike Dolbow](http://www.twitter.com/mmdolbow) will show us [Census Reporter](http://www.censusreporter.org), how to get to Census data fast, and make a map within minutes! [Ryan Mattke](http://www.twitter.com/eglath) will also be presenting on Census Data Visualizations, in particular with GIS data and historical maps!
 
 After the presentations, we'll discuss some highlights from the [2015 NACIS conference](http://nacis2015.sched.org) in Minneapolis, our favorite resources, and maps together!
 
