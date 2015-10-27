@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: November Maptime: Pointclouds
+title: November - Pointclouds
 rsvp: http://www.meetup.com/MaptimeMSP/events/226239050
 author: Kitty Hurley
 ---
