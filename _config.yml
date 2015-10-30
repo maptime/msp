@@ -3,7 +3,7 @@ permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: msp
-github_org: maptime
+github_org: maptimemsp
 maptime:
   chapter: MaptimeMSP
   twitter: MaptimeMSP
