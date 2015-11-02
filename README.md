@@ -1,3 +1,11 @@
+#Maptime MSP
+
+Our site is at http://maptime.io/msp
+
+
+
+*Content below is part of the boiler plate from the Starter Site template.*
+
 ## Maptime Starter site
 
 Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs. Starter is a simple Jekyll theme for MapTime meetups. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.
