@@ -1,8 +1,9 @@
 ---
 layout: event
 category: event
-title: What Are We Working On
+title: What We Are Working On
 rsvp: http://www.meetup.com/MaptimeMSP/events/229442873
+author: Kitty Hurley
 ---
 
 We will start off with short talks (5 min) about something that you are working on, and then the remainder of the meeting will be time to work or collaborate on projects.  
@@ -11,7 +12,7 @@ Presentations and projects are not expected to be polished, just an introduction
 
 Please email david.fawcett at gmail.com if you are interested in giving a quick talk.  We are looking for any map-related projects and really want to see examples of what you, Maptime MSP members are working on.
 
-**Everyone is welcome**! No matter what your experience level is, if you are interested in maps, this is the group for you.  If you don't have a project of your own to work on, you can always edit OpenStreetMap data and improve the map.
+**Everyone is welcome!** No matter what your experience level is, if you are interested in maps, this is the group for you.  If you don't have a project of your own to work on, you can always edit OpenStreetMap data and improve the map.
 
 Pizza will be provided by CartoDB!
 
