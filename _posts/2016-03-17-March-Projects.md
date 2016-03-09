@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: March - What Are We Working On
+title: What Are We Working On
 rsvp: http://www.meetup.com/MaptimeMSP/events/229442873
 ---
 
