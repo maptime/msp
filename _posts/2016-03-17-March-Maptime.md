@@ -1,9 +1,8 @@
 ---
 layout: event
 category: event
-title: March - What We Are Working On
+title: What We Are Working On
 rsvp: http://www.meetup.com/MaptimeMSP/events/229442873
-author: David Fawcett
 ---
 
 We will start off with short talks (5 min) about something that you are working on, and then the remainder of the meeting will be time to work or collaborate on projects.  
