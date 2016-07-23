@@ -12,7 +12,7 @@ This month we'll focus on Open Street Map + Open Data!
 
 Following the presentation, we'll dive in and edit Open Street Map together, explore some open source datasets we could import into Open Street Map, and have some time for networking amongst the group!
 
-*_No previous Open Street Map experience is necessary to attend. If you don't already have an account, you can register at [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org/user/new)._*
+*No previous Open Street Map experience is necessary to attend. If you don't already have an account, you can register at [https://www.openstreetmap.org/user/new](https://www.openstreetmap.org/user/new).*
 
 If you have a laptop, don't forget to bring it along, but if you don't have access to one we'll share together!
 
